@@ -1,4 +1,4 @@
-# DLOs Segmentation and Crossings Classification(DLOsSCC)
+# DLOs Segmentation & Crossings Classification(DLOsSCC)
 
 ### Dataset for DLOs segementation
 [DLOsS](https://drive.google.com/drive/folders/1Y7g3vsS8e2MvCvQczXEkQI6sUg8tD0Ok?usp=sharing)
