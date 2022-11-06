@@ -1,6 +1,7 @@
 # DLOs Segmentation & Crossings Classification(DLOsSCC)
 
-[![Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds](https://youtu.be/wReD4qDMN4k/0.jpg)](https://youtu.be/wReD4qDMN4k "CameraMaster")
+## Demo
+[![Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds](https://res.cloudinary.com/marcomontalbano/image/upload/v1667738600/video_to_markdown/images/youtube--wReD4qDMN4k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/wReD4qDMN4k "Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds")
 
 ## Dataset for DLOs segementation | [DLOsS](https://drive.google.com/drive/folders/1Y7g3vsS8e2MvCvQczXEkQI6sUg8tD0Ok?usp=sharing)
 Dataset DLOsS aims to be used in single-DLO or multi-DLOs segmentation tasks. 
