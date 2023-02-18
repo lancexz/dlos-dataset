@@ -2,7 +2,7 @@
 This project includes two datasets for Deformable Linear Objects(DLOs) segmentation and crossing classification tasks.
 <br><br><br>
 ## Paper
-### Untangling Multiple Deformable Linear Objects in Unknown Quantities With Complex Backgrounds | [IEEE Xplore](https://ieeexplore.ieee.org/document/10026277/media#media)
+### Untangling Multiple Deformable Linear Objects in Unknown Quantities With Complex Backgrounds | [IEEE Xplore](https://ieeexplore.ieee.org/document/10026277)
 [![Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds](https://res.cloudinary.com/marcomontalbano/image/upload/v1667738600/video_to_markdown/images/youtube--wReD4qDMN4k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/wReD4qDMN4k "Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds")
 <br><br><br>
 ## Dataset for DLOs Segementation(DLOSS) | [Download](https://drive.google.com/drive/folders/1Y7g3vsS8e2MvCvQczXEkQI6sUg8tD0Ok?usp=sharing)
