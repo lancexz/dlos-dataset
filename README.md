@@ -22,7 +22,21 @@ Cropped crossing regions were classified into two categories: UPPER and LOWER. T
 - File format: .png(zip);
 - Dataset scales: 1883 UPPER images + 1883 LOWER images.
 
-### Citation
+<br><br>
+## Dataset for DLOs Segementation(DLOSS) | [Download](https://drive.google.com/drive/folders/1Y7g3vsS8e2MvCvQczXEkQI6sUg8tD0Ok?usp=sharing)
+Dataset DLOSS aims to be used in single-DLO or multi-DLOs segmentation tasks. 
+
+As shown in the first collum of the following figure, DLO(s) were placed on four different backgrounds with some distracting objects. The second collum shows the DLO contours. The overlap parts in the crossing areas are marked as blue circles. The third collum further indicates the gradient map of the contours. In the gradient map, the DLO segments are depicted by colors of varying shades from one endpoint of the DLO to the other. 
+
+![Fig.1](./figures/SegmentationDataSamples.png)
+
+### Information
+- Image size: 960x540(pixels);
+- File format: .bmp(zip/rar);
+- Dataset scales: 2000 single DLO + 1500 multi DLOs.
+
+<br><br>
+## Citation
 Plain Text
 ```
 X. Huang, D. Chen, Y. Guo, X. Jiang and Y. Liu, "Untangling Multiple Deformable Linear Objects in Unknown Quantities With Complex Backgrounds," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3233949.
@@ -39,19 +53,6 @@ BibTex
   pages={1-13},
   doi={10.1109/TASE.2023.3233949}}
 ```
-<br><br>
-## Dataset for DLOs Segementation(DLOSS) | [Download](https://drive.google.com/drive/folders/1Y7g3vsS8e2MvCvQczXEkQI6sUg8tD0Ok?usp=sharing)
-Dataset DLOSS aims to be used in single-DLO or multi-DLOs segmentation tasks. 
-
-As shown in the first collum of the following figure, DLO(s) were placed on four different backgrounds with some distracting objects. The second collum shows the DLO contours. The overlap parts in the crossing areas are marked as blue circles. The third collum further indicates the gradient map of the contours. In the gradient map, the DLO segments are depicted by colors of varying shades from one endpoint of the DLO to the other. 
-
-![Fig.1](./figures/SegmentationDataSamples.png)
-
-### Information
-- Image size: 960x540(pixels);
-- File format: .bmp(zip/rar);
-- Dataset scales: 2000 single DLO + 1500 multi DLOs.
-### Citation
 Plain Text
 ```
 Y. Song, K. Yang, X. Jiang and Y. Liu, "Vision Based Topological State Recognition for Deformable Linear Object Untangling Conducted in Unknown Background," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 790-795, doi: 10.1109/ROBIO49542.2019.8961652.
