@@ -53,6 +53,8 @@ BibTex
   pages={1-13},
   doi={10.1109/TASE.2023.3233949}}
 ```
+
+<br>
 Plain Text
 ```
 Y. Song, K. Yang, X. Jiang and Y. Liu, "Vision Based Topological State Recognition for Deformable Linear Object Untangling Conducted in Unknown Background," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 790-795, doi: 10.1109/ROBIO49542.2019.8961652.
