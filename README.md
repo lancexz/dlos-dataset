@@ -43,15 +43,17 @@ X. Huang, D. Chen, Y. Guo, X. Jiang and Y. Liu, "Untangling Multiple Deformable 
 ```
 BibTex
 ```latex
-@ARTICLE{10026277,
+@article{huang2023untangling,
+  title={Untangling multiple deformable linear objects in unknown quantities with complex backgrounds},
   author={Huang, Xuzhao and Chen, Dayuan and Guo, Yuhao and Jiang, Xin and Liu, Yunhui},
-  journal={IEEE Transactions on Automation Science and Engineering}, 
-  title={Untangling Multiple Deformable Linear Objects in Unknown Quantities With Complex Backgrounds}, 
+  journal={IEEE Transactions on Automation Science and Engineering},
+  volume={21},
+  number={1},
+  pages={671-683},
   year={2023},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TASE.2023.3233949}}
+  publisher={IEEE},
+  doi={10.1109/TASE.2023.3233949}
+}
 ```
 <br><br>
 
